@@ -1,0 +1,19 @@
+#clock-face{
+  height:300px;
+  width: 300px;
+  border-radius:150px;
+  border:1px solid black;
+  position:relative;
+}
+
+#second-hand{
+  
+  width:30px;
+  height:140px;
+  background-color: black;
+  position:absolute;
+  top:150px;
+  left:135px;
+  transform-origin: top;
+  
+}
